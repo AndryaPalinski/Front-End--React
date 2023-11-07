@@ -1,0 +1,41 @@
+body {
+
+   background:  #537755; 
+}
+
+.card {
+    background:#537755;
+    padding: 1rem;
+    width: 97, 5%;
+    font-family: 'Playpen Sans', cursive;
+}
+
+.todo-wrapper {
+
+background: #7ca17c;
+
+}
+
+.card h1, p {
+
+    background-color: #a4cba4 ;
+    width: 15%;
+    padding: 1rem;
+    font-family: 'Playpen Sans', cursive;
+    border-radius: 1rem;
+    
+
+}
+
+.tarefa {
+background: #ccf4cc ;
+padding: 0,5rem;
+
+}
+
+.botao {
+
+border-radius: 10rem;
+padding: 0,7rem;
+
+}
